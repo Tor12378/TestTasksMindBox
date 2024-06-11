@@ -1,0 +1,7 @@
+.idea
+ShapeLibrary.sln
+ShapeLibrary.sln.DotSettings.user
+ShapeLibrary/bin
+ShapeLibrary/obj
+ShapeLibraryTests/bin
+ShapeLibraryTests/obj
